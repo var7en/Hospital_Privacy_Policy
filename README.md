@@ -1,4 +1,4 @@
-# hospital_Privacy_Policy
+# Hospital_Privacy_Policy
 
 Privacy Policy
 savi4_project built the Hospital app as a Commercial app. This SERVICE is provided by savi4_project and is intended for use as is.
